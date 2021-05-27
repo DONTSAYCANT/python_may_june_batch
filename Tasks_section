@@ -1,0 +1,22 @@
+Tasks May 27:
+
+pgm1:
+
+    radius = 20 
+    calculate perimeter of circle : 2 pi radius
+        
+pgm2: 
+    
+    radius = 99.10  height = 10.5
+    area of cone = 1/3 pi r2 h
+    output ===> int 
+
+pgm3: 
+    
+    five datatypes: 10-15 line program
+        #str int float boolen complex
+        
+pgm4: 
+    
+    rules for creating variable
+
