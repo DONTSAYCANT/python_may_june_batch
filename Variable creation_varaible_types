@@ -1,0 +1,112 @@
+#variable ==> container for storing value or data type
+#data type ==> type of data
+
+a = 10
+b = 20 
+c = 30
+
+d = 10.9999
+
+e = True
+
+d = False
+
+f = "python"
+
+#rules for creating variable
+
+
+#case sensitive
+a = 1
+A = 1
+
+#alpha numeric or _
+
+a_ = 10
+
+#It should not start with number
+
+#accepted
+a1 = 10
+a2 = 20
+var1 = 30
+
+#not accepted
+#1a =15
+#2b = 30
+
+#
+_a = 10
+
+#Best practices
+
+a= 10
+b =20
+
+
+#Give useful name to the variable
+number1= 10
+number =20
+ticket_number = 12198
+string1 = "python"
+
+a=10
+a= 10
+a = 10
+
+#comments single comment / multi line comment
+
+
+#this value is for getting number1
+number1 = 10
+number2 = 30
+
+#Calculation of area with respect to breadth #documentation
+#value
+output = number1 + number2 // number1
+print(output)
+
+'''
+this program is written in python 3.72 version and it's compatable with RHEL 7
+'''
+
+
+"""
+this program is written in python 3.72 version and it's compatable with RHEL 7
+this program is written in python 3.72 version and it's compatable with RHEL 7
+this program is written in python 3.72 version and it's compatable with RHEL 7
+this program is written in python 3.72 version and it's compatable with RHEL 7
+
+"""
+print("hello")
+
+
+print("helo")
+print("hello")
+
+#print type ==> inbuilt function
+
+print("hello")
+print(10)
+
+
+a = 20
+print(a)
+print("a") #String data type
+
+print(type("python"))
+print(type(a))
+
+b = 20.0
+print(type(b))
+
+
+c = "20.0"
+print(type(c))
+
+d = True
+e = False
+
+print(type(d))
+
+#str int float boolen complex
