@@ -20,3 +20,36 @@ pgm4:
     
     rules for creating variable
 
+Tasks May 28, 2021
+
+#Task1:
+#       int   str   bool  float
+#int 
+#str
+#bool
+#float
+
+#Task 2
+
+    radius = 20 
+    calculate perimeter of circle : 2 pi radius
+        
+#Task3
+    
+    radius = 99.10 (float)  height = 10.5 (int)
+    area of cone = 1/3 pi r2 h
+    output ===> int 
+    
+#Task4:
+
+#Get input from the user
+
+a = input()
+print(len(a))
+
+computer
+wikipedia
+
+#Print middle letter of the string
+
+#Indexing in python
