@@ -53,3 +53,31 @@ wikipedia
 #Print middle letter of the string
 
 #Indexing in python
+
+
+
+Tasks  May 29
+
+#Task1
+#[from (including) : to (excluding)] 
+a= "computer_technology"
+print(a[2:5])
+print(a[-4:-1])
+print(a[0:3])
+print(a[:3])
+print(a[2:])
+print(a[:])
+print(a[2:-1])
+print(a[-5:5])
+print(a[-12:-6])
+print(a[-12:12])
+
+Task2:
+
+a= "python"
+print(a[2:5])
+print(a[2:5:1])
+print(a[2:5:2])
+print(a[:5:3])
+print(a[::3])
+print(a[-3::3])
