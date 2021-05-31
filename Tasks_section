@@ -81,3 +81,46 @@ print(a[2:5:2])
 print(a[:5:3])
 print(a[::3])
 print(a[-3::3])
+
+
+=============================
+Tasks May 31
+============================
+
+Task1: Inbuilt functions 20 functions with one example program
+
+Task2 / Task3 / Task4:
+
+#Task2. Get two values (input) ===> number, string
+
+#7 , "python" ===> pythonpythonpythonpythonpythonpythonpython777777
+
+#3 , "perl"   ===> perlperlperl3333
+
+#Task3. Get two values (input) ===> string, number
+
+#computer_science, 3 ===> mocputer_scieecn
+
+#biology , 2  ===> iboloyg
+
+#capital programs strings
+
+#Task4:
+
+#get two strings from user  computer science  ==> input 
+
+#step 1 ==> comPuter  sciEnce
+
+#step 2 ===> concatenate both ==> comPutersciEnce
+
+#step 3 ===> comPuteRsciEnce
+
+
+
+
+
+
+
+
+
+
