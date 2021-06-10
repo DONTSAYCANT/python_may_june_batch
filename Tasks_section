@@ -225,6 +225,25 @@ Task5: Tuple
 #multiply above elements 3 times
 
 
+June 10 
+
+Task1:  #https://www.w3schools.com/python/python_ref_set.asp
+
+
+Task2: Sets
+
+#Create two empty sets
+#update set1 with 7,8,9,1,2,3,4,5,0
+#update set2 with 4,5,6,0
+#check whether set2 is subset of set1 or no ?
+#check whether both have common elements are no ?
+#remove 8 from set 1 and set 2 ==> find the inferences
+#discard 0 from set1 and set2 
+#find collection of both sets ===> set1 and set2
+
+
+
+
 
 
 
