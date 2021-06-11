@@ -242,6 +242,24 @@ Task2: Sets
 #find collection of both sets ===> set1 and set2
 
 
+June 11
+
+Task1:
+
+ Dictionary:
+
+#create a dictionary
+#{1:["english","maths","science"], 2:[10,20,30], 3:["bio-botany","bio-zoology","Algebra"]}
+#Extract "bobtn" from above dictionary
+#Extract "arbeg" from above dictionary
+#print all keys in dictionary and convert it into tuple
+#Find the average of all numbers available under key "2"
+
+Task2:
+Study difference table
+Study String list tuple set dict methods
+
+
 
 
 
