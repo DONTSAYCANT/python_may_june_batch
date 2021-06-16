@@ -365,6 +365,19 @@ June 15 Tasks:
 
 12 pgms completion
 
+June 16 Tasks:
+
+12 pgms completion
+
+1. Get a dynamic list from user
+2. Get a dynamic dictionary from user
+3. print multiples of 5 between 0 to 50 using range function
+
+clues
+#1. get number of elements from user
+#Loop through range
+#append to list/dictionary
+
 
 
 
