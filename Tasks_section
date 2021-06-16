@@ -379,6 +379,14 @@ clues
 #append to list/dictionary
 
 
+a = int(input("enter number of elements"))
+
+
+for i in range(a):
+    val = int(input("enter element"))
+
+
+
 
 
 
