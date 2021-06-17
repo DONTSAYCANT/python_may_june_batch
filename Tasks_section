@@ -385,6 +385,59 @@ a = int(input("enter number of elements"))
 for i in range(a):
     val = int(input("enter element"))
 
+June 17 
+
+Taks 1:
+
+#Task 1:
+
+Input:
+Li1 = [3,4,5,2,7,8,9,10]
+
+Output:
+Li_odd = [3,5,7,9]
+Li_even = [4,2,8,10]
+
+#Li1 = [3,4,5,2,7,8,9,10]
+
+#Clue
+
+for i in Li1:
+    print(i)
+    if i % 2 == 0:
+        print("EVEN")
+    else:
+        print("ODD")
+        
+Task2:
+
+#Task2:
+
+Input: [-1, -7,8,10,20,21,17,28,-3,0,0,]
+    
+Output:
+neg_LI = [-1,-7,-3]
+pos_LI = []
+Zeros = []
+
+Numeber of postivie ele: 7
+Number nega: 3
+Number of zeros: 2
+
+CLue: previous program and len function
+
+#Task 3
+
+{1:10, 2:11, 3:12, 6:15, 10:21, 12:24, 13:23, 14:23, 18:36, 20:40}
+
+
+key and value ==> even  ==> 3
+
+key and value ==> odd  ===> 1
+
+#dictionary
+#items
+#%2 == 0 or !=0
 
 
 
