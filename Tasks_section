@@ -467,7 +467,159 @@ print numbers in descending order
 print numbers multiples of three
 
 
+June 19: Tasks:
 
+#program1:
+    
+#Get one dynamic list from user
+
+#10 [0,6,5,-3,4,5,3,-2,4,0]
+
+#count ==> no of zeros, no of positive values, no of negative values, no of odd numbers, number of even numbers
+#print the elements
+
+#program2:
+
+#Using while loop print multiples of 5 from 10 to 75
+#Using while loop print multiples of 8 from 100 to 72
+
+#Using for loop print multiples of 5 from 10 to 75
+#Using for loop print multiples of 8 from 100 to 72
+
+#program3:
+
+#two numbers from user 2 25
+#2 
+#3  fizz
+#4
+#15
+#16
+#25
+
+#multiple of 3 ==> fizz
+#multiple of 5 ==> buzz
+#multiple of 15 ==> fizzbuzz
+#Others ===> No fizz and buzz
+
+#Including last number
+
+#program 4
+
+#check whether it's prime or no
+
+#10
+
+#2 up to 10 ===> 2,3,4,5,6,7,8,9
+
+3 % 2
+
+#4 
+#2,3
+
+#for else stmt
+
+#program5: list of prime numbers in a range
+
+#range  10 50  100 50
+
+#op ==> prime ==> []
+#non prime ==> []
+
+#program 6
+
+#get one integer from user
+#armstrong or no (using loops)
+
+#153 ===> 1^3 + 5^3 + 3^3
+#370 ===> 3^3 + 7^3 + 0^3
+#371 ====> 3^3 + 7^3 + 1^3
+
+#program 7
+
+#Fibonacci series
+
+0 1 1 2 3 5 8 13 21 ...
+
+#while loop
+#append
+#add list[-1] + list[-2] ==> append
+
+#what is 10th fibonacci number 34
+
+#program 8
+
+Factorial number
+
+5 ==> 5 * 4 * 3* 2 * 1
+120
+
+#program 9
+
+#get one number from user
+
+345  3 + 4 + 5 ==> 12
+
+#Should not convert in to string 
+
+int(input())
+
+345
+
+% 10 ==> 5 4 3
+// 10 ==> 34 3 0
+
+#program 10
+
+345 3 * 4* 5==> 60
+
+#Should not convert in to string 
+#if 0 available convert it in to 1
+
+#Program 11
+
+#multiples of a number 
+
+#Get one integer from the user
+#9 ==> 1,3,9
+#11 ==> 1,11
+#25 ==> 1,5,25
+
+#Program 12
+
+#multiples of a number 
+
+#Get range integer from the user ==> 10 35
+
+#Number with maximum multipliers
+#20 ==> 1,2,4,5,10,20
+#24 ==> 1,2,3,4,6,8,12
+
+#program 13
+
+#Number with minimum multiplier
+
+#program 14
+
+#Anagram ===> check whether given string is anagram or no
+
+#Two input strings
+#pot
+#top
+
+#top
+#pto
+
+#program 15:
+
+#Square numbers
+
+#range from the user 10 90
+
+#4,5,6,7,8,9
+
+#5 and 8 ===> 0
+
+#op ==> list of square numbers and number of square numbers
 
 
 
