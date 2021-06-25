@@ -635,25 +635,86 @@ Functions:
 #Function to five factorial of a number
 
 
-Tasks June 24: 15 pgms
+Test:
 
-Split and join hackerrank
-sentence string starting values
-Quiz exam
-calculator program
-List strings ===> find string with maximum and minimum number of vowels
-Sort strings alphanetically with out sort function
-Get list of numbers from user, give output of list of prime numbers
+Question1: https://www.linkedin.com/posts/coding-club_asked-activity-6813733801924059137-OJ6Z/
+        
+Question2: Split and join hackerrank
+https://www.hackerrank.com/challenges/python-string-split-and-join/problem
+    
+Question3: Swapcase hackerrank
+https://www.hackerrank.com/challenges/swap-case/problem
+    
+Question4: calculator program (add, sub, mul, div, floor, power, modulo)
+
+Question5: sentence string : starting values (getting only one string user)
+        
+"welcome to python programming world" ===> wetopnpgwd
+"hello world"  ===> howd
+
+Question6: capitalize the first letters
+    
+"welcome to python programming world" ===> "Welcome To Python Programming World"
+"hello world"  ===> HoWd
+
+Question7: Quiz exam
+    
+Predefined five quizes (static question)
+    
+Question8:
+    
+List of strings (dynamic) ===> find string with maximum and minimum number of vowels
+
+Question9:
+    
+List of strings (dynamic) ==> Sort strings alphatically with out sort function
+
+
+Question10:
+    
 Find LCM and GCD of two numbers 
-get two strings from user, find common sub string between them
-Get one sentence from user, find the longest and shortest string in that sentence
-Get numbers from users, add it in to list, stop whenever user gives a prime number
-Swapcase hackerrank
-Find a string hackerrank
+
+#4,2 ==> GCD 2 LCM ==> 4  
+
+
+Question11:
+    
+Get one sentence from user, find the longest and shortest sub string in that sentence
+
+"welcome to python programming world" ==> Long --> programming  shortest ===> to
+
+
+Question12:
+    
+Get numbers from users, add it in to list,
+
+[12,14,15,16,21,99] ==>  stop whenever user gives a prime number
+Accept only non prime number
+
+Question13:
+    
+Find a string hackerrank https://www.hackerrank.com/challenges/find-a-string/problem
+    
+Question14:
+
+get two strings from user, find common sub string between them (largest common)
+
+"python"  "java"  ==> Not common
+"cpp"  "c"   ===> "c"
+"windows" "hidows"  ==> "dows"
+
+Question15:
+
 Get one string from user, count number of lower case, upper case, numbers, special chars, in that
-write program to solve ploynomial equation x3 + 2x2 - x + 9
+
+valueA67@
 
 
+Question16:
+write program to solve ploynomial equation x3 + 2x2 - x + 9 ==> 10
+
+
+Future pgms:
 
 
 Exit come outside
