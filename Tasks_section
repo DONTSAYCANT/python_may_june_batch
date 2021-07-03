@@ -721,6 +721,64 @@ Exit come outside
 Paper scissor stone program
 
 
+Project 1:
+
+#Project 1:
+
+Datastrucuture calculator:
+    
+Please any one operation or data strcuture
+
+
+1. Number (10)
+    Please any one operation:
+        1. add
+        2. sub
+        3. mult
+        4. div
+        5. floor
+        6. modulo
+        7. power
+        8. ceil 
+        9. factorial
+        10. prime
+        11. armstrong
+        12. fibonacci
+
+2. string (10)
+    Please any one operation:
+        Concatenation
+        slicing
+        index
+        replace
+        https://www.w3schools.com/python/python_ref_string.asp
+        
+3. List  (10)
+        List creation
+        Concatenation
+        List slicing
+        check element 
+        index 
+        replace 
+        List deletion
+        List multiplication
+        Convert to tuple/set
+        Duplicate removal
+        
+4. Tuple (5)
+
+5. Set(10)
+        Set creation
+        Concatenation
+        union
+        intersection
+
+6. Dictionary operation (10)
+
+7. Advanced data strucuture (Stack and queue) (5)
+    
+
+
 
 
 
